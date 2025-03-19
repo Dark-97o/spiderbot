@@ -25,7 +25,7 @@ The Spiderbot project is designed to control a spider-like robot with multiple s
   - 'S' to set all servos to a neutral position
 
 ## Authors
-- [Your Name Here]
+- Subhranil Baul
 
 ## License
 This project is licensed under the MIT License.
